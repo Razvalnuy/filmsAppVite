@@ -1,2 +1,12 @@
-# filmsAppVite
-Фильмы, тут можно узнать про фильм, найти его, или же вообще добавить в избранное, короче сами тестите, я уже для себя сделал вывод )
+# React + Vite
+
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+
+Currently, two official plugins are available:
+
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+
+
+Все просто! запустить npm run dev
+ 
